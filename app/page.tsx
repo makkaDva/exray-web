@@ -73,7 +73,7 @@ function GooglePlayButton({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
 
   return (
     <a
-      href="https://play.google.com"
+      href="https://play.google.com/store/apps/details?id=com.m2code.exray&pcampaignid=web_share"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Download EX-Ray on Google Play"
