@@ -34,7 +34,7 @@ function AppStoreButton({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
 
   return (
     <a
-      href="https://apps.apple.com"
+      href="https://apps.apple.com/rs/app/ex-ray-relationship-analyzer/id6762860705"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Download EX-Ray on the App Store"
